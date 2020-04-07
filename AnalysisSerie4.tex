@@ -1,0 +1,39 @@
+\documentclass{report}
+\usepackage{parskip}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+\fancyhead[L]{Analysis Serie 4}
+\fancyhead[R]{Gregory Rozanski}
+\title{Analysis Serie 4}
+\begin{document}
+\paragraph{4.1 MC Fragen: Folgenkonvergenz}
+\begin{enumerate}[label = \alph*)]
+\item $\displaystyle\sum_{k=1}^{\infty} a_k$
+\begin{itemize}
+\item Wahr  $\rightarrow$ laut der Cauchy Kriterium ist die reihe genau dann konvergent falls $\forall \epsilon > 0 \ \ \exists N \geq 1 \text{ mit } \bigg|\displaystyle\sum_{k=n}^{m} a_k \bigg| < \epsilon \quad \forall m \geq n \geq N$
+\item Wahr (begründung gleich wie oben)
+\item Falsch $a_k := 1 \Rightarrow \displaystyle\sum_{k=1}^{\infty} sin(1) \text{ konvergiert absolut, aber } \displaystyle\sum_{k=1}^{\infty} 1$  divergiert
+\item Falsch
+\end{itemize}
+\item $\displaystyle\sum_{k=1}^{\infty} a_k$ eine reelle Reihe mit $\forall k \in \mathbb{N} : a_k \leq 0$
+\begin{itemize}
+\item Wahr. Bew: $S_{n+1} - S_{n} = \displaystyle\sum_{k=1}^{n+1}a_k - \displaystyle\sum_{k=1}^{n}a_k = a_{n+1} \leq 0 \Rightarrow (S_{n})$ ist monoton fallend. Falls $(S_{n})$ nach unten beschränkt ist, folgt aus Weierstrass dass die Folge konvergiert.
+\item Falsch. Bew sei $(a_k) := -\frac{1}{k}$\\
+$\Rightarrow \quad (a_k)$ ist monoton wachsend und $\lim\limits_{n \to \infty} a_k = 0$\\
+$\Rightarrow \quad$ Der Harmonische Reihe divergiert\\
+$\Rightarrow \quad  \displaystyle\sum_{k=1}^{\infty}-\frac{1}{k}$ divergiert
+\item Falsch. Bew: Gegenbeispiel negative Geometrische Reihe
+\end{itemize}
+\item $\phi: \mathbb{N^*} \rightarrow \mathbb{N^*}$ eine Abbildung, $\displaystyle\sum_{n=1}^{\infty}a_n$ eine Reihe und 
+\begin{itemize}
+\item Wahr. Bew: Da Definitionsmenge und Zielmenge gleich sind, ist es eine umordnung von $a_n$ daraus folgt die Summe der $b_n$'s konvergiert 
+\item Wahr. Bew: Da $\phi$ injektiv ist, gilt $\phi(a) \neq \phi(b) | a\neq b$. Da die summe nach unendlich geht ist $\phi$ eine Umordnung der Summe der $b_n$'s konvergiert
+\item Wahr. Bew: Satz von Dirichlet
+\item Wahr. Bew: Satz von Dirichlet
+\end{itemize}
+\end{enumerate}
+\end{document}
