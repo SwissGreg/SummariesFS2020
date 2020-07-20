@@ -1,0 +1,518 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.4)  10 JUN 2020 11:11
+entering extended mode
+**./AnalysisIsummary.tex
+(AnalysisIsummary.tex
+LaTeX2e <2019-10-01> patch level 3
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/extsize
+s\extreport.cls"
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/extsize
+s\size8.clo"
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ex
+scale.sty"
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip
+\parskip.sty"
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdie
+k\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberd
+iek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberd
+iek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberd
+iek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberd
+iek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex
+\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex
+\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbo
+x\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count89
+))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath
+\amsmath.sty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath
+\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath
+\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath
+\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath
+\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks16
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfont
+s\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfont
+s\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphic
+s-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption
+\subcaption.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption
+\caption.sty"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption
+\caption3.sty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count102
+\c@continuedfloat=\count103
+)
+\c@subfigure=\count104
+\c@subtable=\count105
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhd
+r\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/paralle
+l\parallel.sty"
+Package: parallel 2003/04/13, setting two texts parallel (me)
+ `parallel': setting two texts parallel, (beta 4) 2003/04/13.
+\ParallelLWidth=\dimen122
+\ParallelRWidth=\dimen123
+\ParallelTextWidth=\dimen124
+\ParallelLeftMargin=\dimen125
+\ParallelUserMidSkip=\dimen126
+\ParallelMainMidSkip=\dimen127
+\ParallelLBox=\box29
+\ParallelRBox=\box30
+\ParallelBoxVar=\box31
+\ParallelLTok=\box32
+\ParallelRTok=\box33
+\ParallelBoolVar=\count106
+\ParallelBoolMid=\count107
+\ParallelWhichBox=\count108
+\ParallelMainMode=\count109
+\ParallelFNMode=\count110
+\ParallelLFNCounter=\count111
+\ParallelRFNCounter=\count112
+\ParallelMaxFN=\count113
+\ParallelFNNumMode=\count114
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumite
+m\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen128
+\enit@toks=\toks20
+\enit@inbox=\box34
+\enit@count@id=\count115
+\enitdp@description=\count116
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometr
+y\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex
+\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count117
+\Gm@cntv=\count118
+\c@Gm@tempcnt=\count119
+\Gm@bindingoffset=\dimen129
+\Gm@wd@mp=\dimen130
+\Gm@odd@mp=\dimen131
+\Gm@even@mp=\dimen132
+\Gm@layoutwidth=\dimen133
+\Gm@layoutheight=\dimen134
+\Gm@layouthoffset=\dimen135
+\Gm@layoutvoffset=\dimen136
+\Gm@dimlist=\toks21
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometr
+y\geometry.cfg"))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\f
+loat.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count120
+\float@exts=\toks22
+\float@box=\box35
+\@float@everytoks=\toks23
+\@floatcapt=\box36
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\m
+ulticol.sty"
+Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
+\c@tracingmulticols=\count121
+\mult@box=\box37
+\multicol@leftmargin=\dimen137
+\c@unbalance=\count122
+\c@collectmore=\count123
+\doublecol@number=\count124
+\multicoltolerance=\count125
+\multicolpretolerance=\count126
+\full@width=\dimen138
+\page@free=\dimen139
+\premulticols=\dimen140
+\postmulticols=\dimen141
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box38
+\last@line=\box39
+\maxbalancingoverflow=\dimen142
+\mult@rightbox=\box40
+\mult@grightbox=\box41
+\mult@gfirstbox=\box42
+\mult@firstbox=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\c@minrows=\count127
+\c@columnbadness=\count128
+\c@finalcolumnbadness=\count129
+\last@try=\dimen143
+\multicolovershoot=\dimen144
+\multicolundershoot=\dimen145
+\mult@nat@firstbox=\box61
+\colbreak@box=\box62
+\mc@col@check@num=\count130
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig
+\wrapfig.sty"
+\wrapoverhang=\dimen146
+\WF@size=\dimen147
+\c@WF@wrappedlines=\count131
+\WF@box=\box63
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+) (AnalysisIsummary.aux)
+\openout1 = `AnalysisIsummary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/
+mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen148
+\scratchbox=\box64
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen149
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks26
+)
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopd
+f-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdie
+k\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberd
+iek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexc
+mds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 772.77686pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=525.23788pt
+* \textheight=772.77686pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=0.2pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=74.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfont
+s\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+
+
+("C:\Users\Gregory Rozanski\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfont
+s\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<AS1.png, id=1, 271.51437pt x 151.06438pt>
+File: AS1.png Graphic file (type png)
+<use AS1.png>
+Package pdftex.def Info: AS1.png  used on input line 36.
+(pdftex.def)             Requested size: 257.61894pt x 143.33975pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
+$[]$ $\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 a[]\OT1/cmr/m/n/8 )$ bounded $\OMS/cmsy/m
+/n/8 ^\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 a[]\OT1/cmr/m/n/8 )$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--77
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.2pt): 
+Make it at least 9.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1{C:/Users/Gregory Rozanski/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./AS1.png>] (AnalysisIsummary.aux) ) 
+Here is how much of TeX's memory you used:
+ 5376 strings out of 492484
+ 82615 string characters out of 3116617
+ 166627 words of memory out of 3000000
+ 9642 multiletter control sequences out of 15000+200000
+ 8315 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,10n,46p,825b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Gregory Rozanski/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Gregory 
+Rozanski/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/
+cmex8.pfb><C:/Users/Gregory Rozanski/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Gregory Rozanski/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Gregory Rozan
+ski/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<C:/Users/Gregory Rozanski/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr5.pfb><C:/Users/Gregory Rozanski/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Gregory Rozanski/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Gre
+gory Rozanski/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb><C:/Users/Gregory Rozanski/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Gregory Rozanski/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on AnalysisIsummary.pdf (1 page, 151349 bytes).
+PDF statistics:
+ 53 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
